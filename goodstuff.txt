@@ -1,0 +1,11 @@
+Assorted thoughts on programming the QM2100
+
+Thos document is simply a collection of random findings I discovered while learning to program the unit.
+
+* Keep the pickup point as close to the edge where the tape enters the pickup area. This helps from having the parts being shaken out of the tape when advancing the tape.
+
+* Don't get out of synch when programming "half pull" tapes.....
+
+* Remember that when the button "Add A Feeder" have been used the Feeder List GUI still points to the previous feeder that you were woking on. You need to select the new feeder before changing any values.
+
+* Keep backups of your configuration files. The QM software have been known to corrupt files.
