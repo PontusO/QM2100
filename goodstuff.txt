@@ -9,3 +9,5 @@ Thos document is simply a collection of random findings I discovered while learn
 * Remember that when the button "Add A Feeder" have been used the Feeder List GUI still points to the previous feeder that you were woking on. You need to select the new feeder before changing any values.
 
 * Keep backups of your configuration files. The QM software have been known to corrupt files.
+
+* Do not mix tapes with different thickness on the same QM feeder blocks, that will cause problems with jumping components. On SweetPea feeders this is not a problem.
